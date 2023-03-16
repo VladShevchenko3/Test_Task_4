@@ -21,7 +21,7 @@ You can install all packages by running `pip install -r requirements.txt`.
 
 # Installation
 
-* Clone the repository: `git clone https://github.com/VladShevchenko3/Test_task_4.git`
+* Clone the repository: `git clone https://github.com/VladShevchenko3/Test_Task_4.git`
 * Install the required packages: `pip install -r requirements.txt`
 
 To reproduce the analysis of this project, follow these steps:
